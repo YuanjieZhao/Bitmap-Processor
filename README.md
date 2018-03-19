@@ -20,4 +20,6 @@ A PNG image is first transformed into a quadtree before processing. Suppose we h
 
 ![represent bitmap as quadtree](https://github.com/YuanjieZhao/Bitmap-Processor/blob/master/represent_bitmap_as_quadtree.svg)
 
+## Sidenote
 
+This library is an example of how recursion can greatly simplify the code and improve the overally readability.
